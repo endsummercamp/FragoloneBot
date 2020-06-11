@@ -1,0 +1,12 @@
+---
+token: fill_with_your_token
+calendars:
+  ILS Sezione Locale San Dona' di Piave: https://calendar.google.com/calendar/ical/eg5goh3omajmv2dkvqtkaa1vgk%40group.calendar.google.com/public/basic.ics
+  AVILUG: https://calendar.google.com/calendar/ical/hrffafrk10to2mb79qcka8rpo0%40group.calendar.google.com/public/basic.ics
+  GOLEM: https://golem.linux.it/cloud/remote.php/dav/public-calendars/BWZ3N4Q0HRQN51YX/?export
+  LugAnegA: https://calendar.google.com/calendar/ical/nspgaa6qj4ub8dbf8cjeuuvpvg%40group.calendar.google.com/public/basic.ics
+  Lugotto: http://lugotto.it/cloud/remote.php/dav/public-calendars/ZXFMay7DZWg8FZDz/?export
+  PNLUG: https://share.pnlug.it/remote.php/dav/public-calendars/GECcXDgB3pdSXExE/?export
+  Mittelab: https://calendar.google.com/calendar/ical/70birgsfioo008s0hqridr6t0c%40group.calendar.google.com/public/basic.ics
+  Varie: https://calendar.google.com/calendar/ical/ogrmnqujpl22edinh5c3k5rp74%40group.calendar.google.com/public/basic.ics
+cache_life: 21600
