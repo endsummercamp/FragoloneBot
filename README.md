@@ -1,5 +1,5 @@
-# PlanetBot
-Bot Telegram per l'esportazione in chat degli eventi prossimi sul [Calendario LUG](https://planet.linux.it/lug/eventi.php) fornito da [Italian Linux Society](http://www.ils.org/).
+# FragoloneBot
+Bot Telegram per l'esportazione in chat degli eventi prossimi sul [Calendario LUG](https://planet.linux.it/lug/eventi.php) fornito da [Italian Linux Society](http://www.ils.org/) (e altro, forse, in futuro).
 
 La configurazione e il codice sono riutilizzabili per mostrare gli eventi prossimi di qualunque calendario iCalendar (Google Calendar, esportazione NextCloud, _etc._).
 
